@@ -1,3 +1,3 @@
 #!/bin/bash
 
-../moai-sdk/bin/osx/moai "config/config.lua" "main.lua"
+./bin/osx/moai "config/config.lua" "main.lua"
