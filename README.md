@@ -8,6 +8,6 @@ You can view a video of the prototype in action [here](https://www.youtube.com/w
 Running the game
 ---------
 
-PC Users: Extract the folder anywhere on your computer and double click the run.bat file.
+You'll need to MOAI engine which you can get from here: https://github.com/moai/moai-dev
 
-Mac Users: Extract the folder. Open a terminal and change to the extracted folder directory. Type ./run.sh
+Follow the instructions to build the MOAI SDK and then run by passing the main.lua file to the moai binary.
